@@ -1,0 +1,5 @@
+size disk 8 go
+partition
+root 4500M
+home 3 go
+swap 1.1 go
